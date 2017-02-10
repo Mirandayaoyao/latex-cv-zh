@@ -1,0 +1,1200 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.5.3)  10 FEB 2017 03:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**research_experience.tex
+(./research_experience.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.1 \cvsection
+              {Research Experience}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \cvsection{R
+                esearch Experience}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{cventries}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.3   \cventry
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 指 in font nullfont!
+Missing character: There is no 导 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 台 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 城 in font nullfont!
+Missing character: There is no 乡 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 长 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 张 in font nullfont!
+Missing character: There is no 圣 in font nullfont!
+Missing character: There is no 琳 in font nullfont!
+Missing character: There is no 蒲 in font nullfont!
+Missing character: There is no 江 in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no 坪 in font nullfont!
+Missing character: There is no 林 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9       \begin{cvitems}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--10
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10       ^^I\item{
+                    \textbf{两岸城市与产业规划发展--以四川蒲�...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 两 in font cmbx10!
+Missing character: There is no 岸 in font cmbx10!
+Missing character: There is no 城 in font cmbx10!
+Missing character: There is no 市 in font cmbx10!
+Missing character: There is no 与 in font cmbx10!
+Missing character: There is no 产 in font cmbx10!
+Missing character: There is no 业 in font cmbx10!
+Missing character: There is no 规 in font cmbx10!
+Missing character: There is no 划 in font cmbx10!
+Missing character: There is no 发 in font cmbx10!
+Missing character: There is no 展 in font cmbx10!
+Missing character: There is no 以 in font cmbx10!
+Missing character: There is no 四 in font cmbx10!
+Missing character: There is no 川 in font cmbx10!
+Missing character: There is no 蒲 in font cmbx10!
+Missing character: There is no 江 in font cmbx10!
+Missing character: There is no 和 in font cmbx10!
+Missing character: There is no 台 in font cmbx10!
+Missing character: There is no 湾 in font cmbx10!
+Missing character: There is no 坪 in font cmbx10!
+Missing character: There is no 林 in font cmbx10!
+Missing character: There is no 为 in font cmbx10!
+Missing character: There is no 例 in font cmbx10!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 城 in font nullfont!
+Missing character: There is no 市 in font nullfont!
+Missing character: There is no 与 in font nullfont!
+Missing character: There is no 乡 in font nullfont!
+Missing character: There is no 村 in font nullfont!
+Missing character: There is no 共 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 体 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 角 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 蒲 in font nullfont!
+Missing character: There is no 江 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 坪 in font nullfont!
+Missing character: There is no 林 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 具 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 产 in font nullfont!
+Missing character: There is no 业 in font nullfont!
+Missing character: There is no 经 in font nullfont!
+Missing character: There is no 济 in font nullfont!
+Missing character: There is no 危 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 水 in font nullfont!
+Missing character: There is no 资 in font nullfont!
+Missing character: There is no 源 in font nullfont!
+Missing character: There is no 环 in font nullfont!
+Missing character: There is no 境 in font nullfont!
+Missing character: There is no 条 in font nullfont!
+Missing character: There is no 件 in font nullfont!
+Missing character: There is no 限 in font nullfont!
+Missing character: There is no 制 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 农 in font nullfont!
+Missing character: There is no 村 in font nullfont!
+Missing character: There is no 地 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 蒲 in font nullfont!
+Missing character: There is no 江 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 台 in font nullfont!
+Missing character: There is no 湾 in font nullfont!
+Missing character: There is no 新 in font nullfont!
+Missing character: There is no 北 in font nullfont!
+Missing character: There is no 坪 in font nullfont!
+Missing character: There is no 林 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 茶 in font nullfont!
+Missing character: There is no 文 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 创 in font nullfont!
+Missing character: There is no 意 in font nullfont!
+Missing character: There is no 教 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 基 in font nullfont!
+Missing character: There is no 地 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 共 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 域 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no 展 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 产 in font nullfont!
+Missing character: There is no 业 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no 展 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 连 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 10--15
+\OT1/cmr/bx/n/10 --
+ []
+
+! Undefined control sequence.
+l.16   \cventry
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19     {台
+             北}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 台 in font nullfont!
+Missing character: There is no 北 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22       \begin{cvitems}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--23
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23         \item{
+                    \textbf{台北机厂文化资产保存} \\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 台 in font cmbx10!
+Missing character: There is no 北 in font cmbx10!
+Missing character: There is no 机 in font cmbx10!
+Missing character: There is no 厂 in font cmbx10!
+Missing character: There is no 文 in font cmbx10!
+Missing character: There is no 化 in font cmbx10!
+Missing character: There is no 资 in font cmbx10!
+Missing character: There is no 产 in font cmbx10!
+Missing character: There is no 保 in font cmbx10!
+Missing character: There is no 存 in font cmbx10!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 保 in font nullfont!
+Missing character: There is no 存 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 再 in font nullfont!
+Missing character: There is no 利 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 工 in font nullfont!
+Missing character: There is no 业 in font nullfont!
+Missing character: There is no 遗 in font nullfont!
+Missing character: There is no 产 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 我 in font nullfont!
+Missing character: There is no 们 in font nullfont!
+Missing character: There is no 提 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 再 in font nullfont!
+Missing character: There is no 利 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 构 in font nullfont!
+Missing character: There is no 想 in font nullfont!
+Missing character: There is no 包 in font nullfont!
+Missing character: There is no 括 in font nullfont!
+Missing character: There is no 教 in font nullfont!
+Missing character: There is no 育 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 国 in font nullfont!
+Missing character: There is no 际 in font nullfont!
+Missing character: There is no 交 in font nullfont!
+Missing character: There is no 流 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 区 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no 展 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 业 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 活 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 平 in font nullfont!
+Missing character: There is no 台 in font nullfont!
+Missing character: There is no 等 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.28     \cventry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32     {2
+           014.9 - 2015.1}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34       \begin{cvitems}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 32--35
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35         \item{
+                   \textbf{公馆楼改造计划 }\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 公 in font cmbx10!
+Missing character: There is no 馆 in font cmbx10!
+Missing character: There is no 楼 in font cmbx10!
+Missing character: There is no 改 in font cmbx10!
+Missing character: There is no 造 in font cmbx10!
+Missing character: There is no 计 in font cmbx10!
+Missing character: There is no 划 in font cmbx10!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 家 in font nullfont!
+Missing character: There is no 具 in font nullfont!
+Missing character: There is no 自 in font nullfont!
+Missing character: There is no 力 in font nullfont!
+Missing character: There is no 营 in font nullfont!
+Missing character: There is no 造 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 举 in font nullfont!
+Missing character: There is no 办 in font nullfont!
+Missing character: There is no 活 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no & in font nullfont!
+Missing character: There is no 反 in font nullfont!
+Missing character: There is no 馈 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 改 in font nullfont!
+Missing character: There is no 善 in font nullfont!
+Missing character: There is no 本 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 院 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 楼 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 部 in font nullfont!
+Missing character: There is no 环 in font nullfont!
+Missing character: There is no 境 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.40     \cventry
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 指 in font nullfont!
+Missing character: There is no 导 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 南 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 都 in font nullfont!
+Missing character: There is no 市 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 研 in font nullfont!
+Missing character: There is no 究 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 长 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 张 in font nullfont!
+Missing character: There is no 红 in font nullfont!
+Missing character: There is no 艳 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46       \begin{cvitems}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47         \item{
+                   \textbf{高淳游子山森林公园景区提升规划}\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 高 in font cmbx10!
+Missing character: There is no 淳 in font cmbx10!
+Missing character: There is no 游 in font cmbx10!
+Missing character: There is no 子 in font cmbx10!
+Missing character: There is no 山 in font cmbx10!
+Missing character: There is no 森 in font cmbx10!
+Missing character: There is no 林 in font cmbx10!
+Missing character: There is no 公 in font cmbx10!
+Missing character: There is no 园 in font cmbx10!
+Missing character: There is no 景 in font cmbx10!
+Missing character: There is no 区 in font cmbx10!
+Missing character: There is no 提 in font cmbx10!
+Missing character: There is no 升 in font cmbx10!
+Missing character: There is no 规 in font cmbx10!
+Missing character: There is no 划 in font cmbx10!
+Missing character: There is no 负 in font nullfont!
+Missing character: There is no 责 in font nullfont!
+Missing character: There is no 童 in font nullfont!
+Missing character: There is no 话 in font nullfont!
+Missing character: There is no 镇 in font nullfont!
+Missing character: There is no 板 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 民 in font nullfont!
+Missing character: There is no 俗 in font nullfont!
+Missing character: There is no 村 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 美 in font nullfont!
+Missing character: There is no 丽 in font nullfont!
+Missing character: There is no 乡 in font nullfont!
+Missing character: There is no 村 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no 范 in font nullfont!
+Missing character: There is no 带 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 宣 in font nullfont!
+Missing character: There is no 传 in font nullfont!
+Missing character: There is no 片 in font nullfont!
+Missing character: There is no 等 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 案 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.55    \cventry
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56     {指
+             导: 南大社科所所长-张学为}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 指 in font nullfont!
+Missing character: There is no 导 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 南 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 科 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 长 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 张 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 南 in font nullfont!
+Missing character: There is no 京 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61       \begin{cvitems}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--62
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62         \item{
+                   \textbf{主持南京大学校级创新计划}\\ %%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 主 in font cmbx10!
+Missing character: There is no 持 in font cmbx10!
+Missing character: There is no 南 in font cmbx10!
+Missing character: There is no 京 in font cmbx10!
+Missing character: There is no 大 in font cmbx10!
+Missing character: There is no 学 in font cmbx10!
+Missing character: There is no 校 in font cmbx10!
+Missing character: There is no 级 in font cmbx10!
+Missing character: There is no 创 in font cmbx10!
+Missing character: There is no 新 in font cmbx10!
+Missing character: There is no 计 in font cmbx10!
+Missing character: There is no 划 in font cmbx10!
+Missing character: There is no 作 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 负 in font nullfont!
+Missing character: There is no 责 in font nullfont!
+Missing character: There is no 人 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 带 in font nullfont!
+Missing character: There is no 领 in font nullfont!
+Missing character: There is no 团 in font nullfont!
+Missing character: There is no 队 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 往 in font nullfont!
+Missing character: There is no 苏 in font nullfont!
+Missing character: There is no 州 in font nullfont!
+Missing character: There is no 某 in font nullfont!
+Missing character: There is no 县 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 银 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 揽 in font nullfont!
+Missing character: There is no 存 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 社 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 调 in font nullfont!
+Missing character: There is no 查 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 果 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no 文 in font nullfont!
+Missing character: There is no 《 in font nullfont!
+Missing character: There is no 基 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 特 in font nullfont!
+Missing character: There is no 殊 in font nullfont!
+Missing character: There is no 关 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 银 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 揽 in font nullfont!
+Missing character: There is no 存 in font nullfont!
+Missing character: There is no 背 in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 权 in font nullfont!
+Missing character: There is no 力 in font nullfont!
+Missing character: There is no 博 in font nullfont!
+Missing character: There is no 弈 in font nullfont!
+Missing character: There is no 》 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.68    \cventry
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69     {U
+           nder the instruction of Prof. Peng , Ms Chen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74       \begin{cvitems}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--75
+[]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75         \item{
+                    \textbf{Director of Research on analysis and promotions ...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ’ in font cmbx10!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77       \end{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (42.09009pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 Director
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (31.3137pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 search
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (24.59705pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 anal-
+ []
+
+
+Overfull \hbox (9.90273pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 y-
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 sis
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (20.70824pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 pro-
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 mo-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 cial
+ []
+
+
+Overfull \hbox (28.37486pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 work-
+ []
+
+
+Overfull \hbox (14.54298pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 ers
+ []
+
+
+Overfull \hbox (20.06935pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 cur-
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 rent
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 liv-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (28.37486pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 work-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 di-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (37.59006pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 HouZa-
+ []
+
+
+Overfull \hbox (25.7707pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 iMen
+ []
+
+
+Overfull \hbox (30.61098pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 Street
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (24.81235pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 Nan-
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 75--79
+\OT1/cmr/bx/n/10 jing 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{cventries}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> research_experience.tex
+                           
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493706
+ 153 string characters out of 6145770
+ 55323 words of memory out of 5000000
+ 3452 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 13i,1n,10p,206b,92s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
